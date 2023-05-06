@@ -1,6 +1,5 @@
 github ID = comamo2115
 github pass = itsumono
-github Token = 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
 
 how to do
 
